@@ -1,1 +1,1 @@
-# hm-config
+# Standalone Home-Manager Config
